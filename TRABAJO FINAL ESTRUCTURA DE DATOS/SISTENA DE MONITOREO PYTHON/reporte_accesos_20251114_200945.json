@@ -1,0 +1,122 @@
+[
+  {
+    "usuario": "admin",
+    "servidor": "10.0.0.5",
+    "ip": "172.16.0.10",
+    "tipo_acceso": "Exitoso",
+    "hora": "2025-11-06 10:00:45",
+    "timestamp": 1762437645.882957
+  },
+  {
+    "usuario": "admin",
+    "servidor": "192.168.1.20",
+    "ip": "10.0.0.100",
+    "tipo_acceso": "Exitoso",
+    "hora": "2025-10-29 18:52:45",
+    "timestamp": 1761778365.883203
+  },
+  {
+    "usuario": "usuario1",
+    "servidor": "servidor_bd",
+    "ip": "10.0.0.51",
+    "tipo_acceso": "Fallido",
+    "hora": "2025-11-07 04:51:45",
+    "timestamp": 1762505505.883373
+  },
+  {
+    "usuario": "invitado",
+    "servidor": "192.168.1.20",
+    "ip": "172.16.0.10",
+    "tipo_acceso": "Fallido",
+    "hora": "2025-10-17 06:02:45",
+    "timestamp": 1760695365.883552
+  },
+  {
+    "usuario": "root",
+    "servidor": "servidor_bd",
+    "ip": "192.168.1.200",
+    "tipo_acceso": "Exitoso",
+    "hora": "2025-10-29 12:20:45",
+    "timestamp": 1761754845.883648
+  },
+  {
+    "usuario": "root",
+    "servidor": "192.168.1.10",
+    "ip": "192.168.1.200",
+    "tipo_acceso": "Exitoso",
+    "hora": "2025-10-20 09:04:45",
+    "timestamp": 1760965485.88377
+  },
+  {
+    "usuario": "usuario2",
+    "servidor": "192.168.1.20",
+    "ip": "192.168.1.100",
+    "tipo_acceso": "Exitoso",
+    "hora": "2025-10-26 01:35:45",
+    "timestamp": 1761456945.883842
+  },
+  {
+    "usuario": "usuario2",
+    "servidor": "servidor_bd",
+    "ip": "192.168.1.102",
+    "tipo_acceso": "Exitoso",
+    "hora": "2025-10-16 18:10:45",
+    "timestamp": 1760652645.883942
+  },
+  {
+    "usuario": "root",
+    "servidor": "192.168.1.30",
+    "ip": "10.0.0.50",
+    "tipo_acceso": "Fallido",
+    "hora": "2025-10-16 16:51:45",
+    "timestamp": 1760647905.884045
+  },
+  {
+    "usuario": "root",
+    "servidor": "192.168.1.30",
+    "ip": "192.168.1.200",
+    "tipo_acceso": "Exitoso",
+    "hora": "2025-10-19 19:52:45",
+    "timestamp": 1760917965.88465
+  },
+  {
+    "usuario": "root",
+    "servidor": "192.168.1.30",
+    "ip": "192.168.1.200",
+    "tipo_acceso": "Fallido",
+    "hora": "2025-10-18 13:48:45",
+    "timestamp": 1760809725.884825
+  },
+  {
+    "usuario": "root",
+    "servidor": "192.168.1.20",
+    "ip": "172.16.0.10",
+    "tipo_acceso": "Exitoso",
+    "hora": "2025-11-01 21:35:45",
+    "timestamp": 1762047345.884158
+  },
+  {
+    "usuario": "root",
+    "servidor": "192.168.1.20",
+    "ip": "172.16.0.10",
+    "tipo_acceso": "Exitoso",
+    "hora": "2025-11-10 12:55:45",
+    "timestamp": 1762793745.884514
+  },
+  {
+    "usuario": "test_user",
+    "servidor": "servidor_bd",
+    "ip": "172.16.0.10",
+    "tipo_acceso": "Exitoso",
+    "hora": "2025-10-26 09:05:45",
+    "timestamp": 1761483945.884371
+  },
+  {
+    "usuario": "test_user",
+    "servidor": "servidor_bd",
+    "ip": "192.168.1.200",
+    "tipo_acceso": "Fallido",
+    "hora": "2025-10-18 04:49:45",
+    "timestamp": 1760777385.884903
+  }
+]
